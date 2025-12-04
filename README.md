@@ -1,1 +1,1 @@
-This the type of work I did for work. It was more creating our own tables and then maunaul inputting and having a formula to automate the percentages we were looking for, for certain types of shots or points being scored.
+This the type of data analysis I do for work (There's also an in house app we use that gathers percentages but it automated just from data entry). It was more creating our own tables and then maunaul inputting and having a formula to automate the percentages we were looking for, for certain types of shots or points being scored.
