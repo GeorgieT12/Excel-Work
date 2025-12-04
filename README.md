@@ -1,1 +1,1 @@
-# Excel-Work
+This the type of work I did for work. It was more creating our own tables and then maunaul inputting and having a formula to automate the percentages we were looking for, for certain types of shots or points being scored.
